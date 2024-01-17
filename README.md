@@ -1,7 +1,6 @@
 Right now I'm working on: 
 
-- Art Folio Site
-- Notion Database and Ticktick Task Sync
-- Art Refs Program (? still planning)
+- Notion Database and Ticktick Task Syncer
+- Art Site
 
 Thanks for dropping by!
